@@ -1,0 +1,4 @@
+[package]
+name = "trait-const-default-method"
+version = "0.1.0"
+edition = "2024"
